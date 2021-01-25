@@ -5,12 +5,12 @@ Active link for the site can be found here https://flipflapthetraitor.github.io/
 This site requires nothing but a web browser to run and any text editor to edit the application.
 
 ##Installation
-Origin Repo can be found here https://github.com/FlipFlaptheTraitor/Javaquiz
-under master branch.
+Origin Repo can be found here https://github.com/FlipFlaptheTraitor/Work-Day
+under develop branch.
 
 ##Usage
-This program was designed to create a quiz in java using Dom elements and forms to create a series of questions and multiple choice answers that will apear on a page as each question is cycled through while under time. users will then input their name into a highscore function.
-![JavaQuiz](./assets/images/jquiz.png?raw=true "JavaQuiz")
+This program was designed to create a Work planner in order to allow a user to plan a work day between the hours of 9am and 5 pm. It uses Jquery and momentJS in order to allow users to input tasks into a rows and columns on a webpage. It also allows the modification and deletion of tasks.
+![WorkPlanner](./assets/images/WorkPlanner.png "Work planner")
 ##Credit
 edited by Kevin Miller (FlipFlaptheTraitor) using Git and VScode
 
