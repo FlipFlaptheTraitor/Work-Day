@@ -1,6 +1,6 @@
 # Work Day Scheduler Starter Code
 ##Active link
-Active link for the site can be found here https://flipflapthetraitor.github.io/Javaquiz/
+Active link for the site can be found here https://flipflapthetraitor.github.io/Work-Day/
 ##Prerequisites
 This site requires nothing but a web browser to run and any text editor to edit the application.
 
